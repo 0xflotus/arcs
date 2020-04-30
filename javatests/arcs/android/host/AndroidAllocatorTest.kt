@@ -165,5 +165,4 @@ open class AndroidAllocatorTest : AllocatorTestBase() {
     override fun allocator_startArc_particleException_isErrorState() {
         super.allocator_startArc_particleException_isErrorState()
     }
-
 }
